@@ -1,3 +1,5 @@
+package main.java.com.test.store.model;
+
 import java.util.ArrayList;
 import java.util.List;
 

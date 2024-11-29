@@ -1,3 +1,5 @@
+package main.java.com.test.store.model;
+
 import java.util.Random;
 
 public class Server implements Slot {

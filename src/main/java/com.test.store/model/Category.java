@@ -1,3 +1,5 @@
+package main.java.com.test.store.model;
+
 import java.util.List;
 
 public abstract class Category {
@@ -14,11 +16,11 @@ public abstract class Category {
     }
 
     public String getCategoryDesc() {
-        return categoryName;
+        return categoryDesc;
     }
 
     public void setCategoryDesc(String desc) {
-        this.categoryName = desc;
+        this.categoryDesc = desc;
     }
 
     public List<Product> getProducts() {

@@ -1,6 +1,8 @@
+package main.java.com.test.store.model;
+
 public class Customer extends Server {
-    private String name; // Customer's name
-    private double balance; // Customer's balance
+    private String name; // main.java.com.test.store.model.Customer's name
+    private double balance; // main.java.com.test.store.model.Customer's balance
 
     public Customer(String name) {
         this.name = name;

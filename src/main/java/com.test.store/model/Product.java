@@ -1,3 +1,5 @@
+package main.java.com.test.store.model;
+
 public class Product extends Category {
     private String name;
     private String description;
